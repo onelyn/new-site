@@ -22,7 +22,7 @@ repository               : "new-site"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Yinuo-Liu.png"
   name             : "Yinuo Liu"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : @YinuoLIU16
+  twitter          : "@YinuoLIU16"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -77,8 +77,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+    #title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -213,18 +213,21 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  #teaching:
+    #output: False
+    #permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  #portfolio:
+    #output: true
+    #permalink: /:collection/:path/
+  #talks:
+    #output: true
+    #permalink: /:collection/:path/
+  projects:
     output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    permaline: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -282,6 +285,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+   # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
