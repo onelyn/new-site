@@ -11,54 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Psychology, Zhejiang University, 2019-2023
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Visiting student at Language Brains and Machines Lab led by [Dr. Jixing Li](https://scholars.cityu.edu.hk/en/persons/jixing-li(b06f2301-6298-4bd0-98f5-5be78d4a148e).html) (September 2022 - December 2022)
+* Undergraduate research assistant at Cognomics Lab led by [Dr. Xiangzhen Kong](https://scholar.google.com/citations?user=AGsaPnQAAAAJ&hl=en) (August 2021 - December 2022)
+* Undergraduate research assistant at Attention and Memory Lab led by [Dr. Ying Cai](https://scholar.google.com/citations?user=b5N1lhgAAAAJ) (January 2020 - August 2022)
+* Student at [Neuromatch Academy](https://neuromatch.io/courses/) (Computational Neuroscience track) (June 2022)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+More details can be checked on the [old personal website](https://onelyn.github.io)
