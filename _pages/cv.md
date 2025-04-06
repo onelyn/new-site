@@ -15,10 +15,10 @@ Education
 
 Research experience
 ======
-* Visiting student at Language Brains and Machines Lab led by [Dr. Jixing Li](https://scholars.cityu.edu.hk/en/persons/jixing-li(b06f2301-6298-4bd0-98f5-5be78d4a148e).html) (September 2022 - December 2022)
-* Undergraduate research assistant at Cognomics Lab led by [Dr. Xiangzhen Kong](https://scholar.google.com/citations?user=AGsaPnQAAAAJ&hl=en) (August 2021 - December 2022)
-* Undergraduate research assistant at Attention and Memory Lab led by [Dr. Ying Cai](https://scholar.google.com/citations?user=b5N1lhgAAAAJ) (January 2020 - August 2022)
-* Student at [Neuromatch Academy](https://neuromatch.io/courses/) (Computational Neuroscience track) (June 2022)
+* Visiting student at Language Brains and Machines Lab led by <a href="https://scholars.cityu.edu.hk/en/persons/jixing-li(b06f2301-6298-4bd0-98f5-5be78d4a148e).html" target="_blank" rel="noopener">Dr. Jixing Li</a> (September 2022 - December 2022)
+* Undergraduate research assistant at Cognomics Lab led by <a href="https://scholar.google.com/citations?user=AGsaPnQAAAAJ&hl=en" target="_blank" rel="noopener">Dr. Xiangzhen Kong</a> (August 2021 - December 2022)
+* Undergraduate research assistant at Attention and Memory Lab led by <a href="https://scholar.google.com/citations?user=b5N1lhgAAAAJ" target="_blank" rel="noopener">Dr. Ying Cai</a> (January 2020 - August 2022)
+* Student at <a href="https://neuromatch.io/courses/" target="_blank" rel="noopener">Neuromatch Academy</a> (Computational Neuroscience track) (June 2022)
 
   
-More details can be checked on the [old personal website](https://onelyn.github.io)
+More details can be checked on the <a href="https://onelyn.github.io" target="_blank" rel="noopener">old personal website</a>
