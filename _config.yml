@@ -23,7 +23,7 @@ repository               : "new-site"
 author:
   # Biographic information
   avatar           : "Yinuo-Liu-cropped.jpg"
-  name             : "Yinuo Liu"
+  name             : # "Yinuo Liu"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Boston, MA, USA"
