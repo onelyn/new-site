@@ -5,32 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Journal Articles</h2>
+<hr>
 
-{% include base_path %}
+<p><strong>Liu, Y.</strong>, Choi, J. Y., & Perrachione, T. K. (2025). Systematic bias in surface area asymmetry measurements from automatic cortical parcellations. <em>bioRxiv</em>. <br>
+<a href="/files/Liu-2025.pdf" target="_blank">[PDF]</a> <a href="https://www.biorxiv.org/content/10.1101/2025.03.25.645109v1.abstract" target="_blank">[bioRxiv]</a></p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>Kong, X. Z., Zhang, C., <strong>Liu, Y.<strong>, & Pu, Y. (2022). Scanning reproducible brain-wide associations: Sample size is all you need? <em>Psychoradiology, 2</em>(3), 67-68 <br>
+<a href="/files/Kong-Liu-2022.pdf" target="_blank">[PDF]</a> <a href="https://academic.oup.com/psyrad/article/2/3/67/6758324" target="_blank">[Full Text]</a></p>
+
+<br>
+<h2>Conference Posters</h2>
+<hr>
+
+<p><strong>Liu, Y.</strong>, et al. (2022). Real-time decoding of imagined speech. In <em>Proceedings of NeurIPS 2022</em>, 33, 1452–1463. <br>
+<a href="#">[PDF]</a> <a href="#">[Slides]</a></p>
 
 
 
