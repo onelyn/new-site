@@ -22,7 +22,7 @@ repository               : "new-site"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yinuo-Liu.jpg"
+  avatar           : "Yinuo-Liu-cropped.jpg"
   name             : "Yinuo Liu"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
