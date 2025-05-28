@@ -11,7 +11,7 @@ redirect_from:
 
 CV
 ======
-Here is a link to my <a href="/new-site/files/CV_20250528.pdf" target="_blank" rel="noopener">CV</a> (updated May 28, 2025)
+Here is a link to my <a href="/new-site/files/CV_20250528.pdf" target="_blank">CV</a> (updated May 28, 2025)
 
 Education
 ======
