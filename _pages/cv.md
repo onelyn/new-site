@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+======
+Here is a link to my <a href="https://github.com/onelyn/new-site/blob/master/files/CV_20250528.pdf" target="_blank" rel="noopener">CV</a> (updated May 28, 2025)
+
 Education
 ======
 * B.S. in Psychology, Zhejiang University, 2019-2023
@@ -21,4 +25,4 @@ Research experience
 * Student at <a href="https://neuromatch.io/courses/" target="_blank" rel="noopener">Neuromatch Academy</a> (Computational Neuroscience track) (June 2022)
 
   
-More details can be checked on the <a href="https://onelyn.github.io" target="_blank" rel="noopener">old personal website</a>
+Here is a link to my <a href="https://onelyn.github.io" target="_blank" rel="noopener">old personal website</a> (mostly about undergrad coursework and research)
